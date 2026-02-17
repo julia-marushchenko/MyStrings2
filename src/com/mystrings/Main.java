@@ -1,5 +1,5 @@
 /**
- *  Java program to convert strings to character arrays and wise versa.
+ *  Java program to convert strings to character arrays and vice versa.
  */
 
 package com.mystrings;
